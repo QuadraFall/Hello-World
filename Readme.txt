@@ -1,2 +1,1 @@
-line 1
-Try me
+print("hello_World")
